@@ -107,6 +107,7 @@ public class TypeScript extends SeleniumBase {
 		WebElement clickLogin =againLoginPage.getClickheretologin();
 		seleniumBase.clickByJava(clickLogin);
 		
+		System.out.println("Tester Work Is Completed");
 		}
 
 }
