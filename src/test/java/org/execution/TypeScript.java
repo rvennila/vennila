@@ -108,9 +108,13 @@ public class TypeScript extends SeleniumBase {
 		seleniumBase.clickByJava(clickLogin);
 		
 		System.out.println("Project Is Complete");
+		System.out.println("Tester Work Is Completed");
+
 		
 		
 		
+		
+
 		}
 
 }
